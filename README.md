@@ -1,4 +1,5 @@
 # Hi there 👋
+🌱 I’m currently learning Kotlin
 
 <!--
 **naufal225/naufal225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
