@@ -1,5 +1,5 @@
 <h1 align="center" style='font-size:100px;'>
-      ✋🙂‍↕️
+      
      </h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
