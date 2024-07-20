@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
-<div style="display:flex; justify-content:center; align-items:center; width:100%">
-<img src="https://i1.sndcdn.com/artworks-ACi2iXZQeSQ10sEH-xV3pZw-t500x500.jpg" width="200px" align="center">
-  
+<div align="center">
+  <img src="https://i1.sndcdn.com/artworks-ACi2iXZQeSQ10sEH-xV3pZw-t500x500.jpg" width="200px">
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nma225__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nma225__" height="30" width="40" /></a>
