@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
-<div style="display:flex; justify-content:center; align-items:center">
+<div style="display:flex; justify-content:center; align-items:center; width:100%">
 <img src="https://i1.sndcdn.com/artworks-ACi2iXZQeSQ10sEH-xV3pZw-t500x500.jpg" width="200px" align="center">
   
 </div>
