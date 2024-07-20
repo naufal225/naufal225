@@ -1,12 +1,12 @@
 <div align=center>
-# Hi 👋, I'm Naufal Ma'ruf Ashrori
+<h1 style="font-size:50px;">Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
 <div align="center">
   <img src="https://i1.sndcdn.com/artworks-ACi2iXZQeSQ10sEH-xV3pZw-t500x500.jpg" width="200px">
 </div>
 
 <br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nma225__) 
 
 <br>
