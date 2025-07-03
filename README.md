@@ -1,5 +1,5 @@
-<h1>Hanya manusia biasa</h1>
-<!--
+<!-- <h1>Hanya manusia biasa</h1> -->
+
 <div align=center>
 <h1>Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
 <div align="center">
