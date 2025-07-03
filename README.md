@@ -1,4 +1,4 @@
-<h1 style="font-style:bold">Hanya manusia biasa</h1> 
+<h1 style="font-weight:bold">Hanya manusia biasa</h1> 
 <!--
 <div align=center>
 <h1>Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
