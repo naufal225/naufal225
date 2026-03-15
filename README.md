@@ -1,6 +1,6 @@
 <!-- <h1 style="font-weight:bold">Saya manusia biasa, makan nasi</h1> -->
 
-<div align=center>
+<!-- <div align=center>
 <h1>Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
 <div align="center">
   <img src="https://i1.sndcdn.com/artworks-ACi2iXZQeSQ10sEH-xV3pZw-t500x500.jpg" width="300px">
