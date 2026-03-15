@@ -1,5 +1,5 @@
-<!--<h1 style="font-weight:bold">Saya manusia biasa, makan nasi</h1>
-<!-- 
+<h1 style="font-weight:bold">Saya manusia biasa, makan nasi</h1>
+
 <div align=center>
 <h1>Hi 👋, I'm Naufal Ma'ruf Ashrori</h1>
 <div align="center">
