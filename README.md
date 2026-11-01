@@ -1,3 +1,6 @@
+
+kosong aja biar keliatan jago
+
 <!-- <h1 style="font-weight:bold">Saya manusia biasa, makan nasi</h1> -->
 
 <!-- <div align=center>
