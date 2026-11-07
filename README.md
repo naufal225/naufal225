@@ -1,8 +1,5 @@
-<h1>Naufal Ma'ruf Ashrori</h1>
+<h1>saya manusia biasa, makan nasi</h1>
 
-
-
-simpel aja biar kayak orang jago
 
 <!-- <h1 style="font-weight:bold">Saya manusia biasa, makan nasi</h1> -->
 
